@@ -7,13 +7,13 @@ AdaApa News
 Clone the project
 
 ```bash
-  git clone https://github.com/destiaww/AdaApa-nextjs.git
+  git clone https://github.com/Abyansyah/NewsWebsite.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd AdaApa-nextjs
+  cd NewsWebsite
 ```
 
 Install dependencies
